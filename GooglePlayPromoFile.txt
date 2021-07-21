@@ -1,0 +1,1 @@
+{"gameName":"Mon bébé papillon S'occuper d'un Butterbie Kawaii","storeLink":"https://play.google.com/store/apps/details?id=com.parakite.butterbies","imageUrls":["https://raw.githubusercontent.com/AlanBillant/CrossPromo/main/Promo.png"]}
